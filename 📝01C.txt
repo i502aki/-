@@ -1,0 +1,157 @@
+=2024.10.30 ＃０7=　#商品開発
+［確認事項］ 次回は11月13日（水）11:00-11:45とします。
+[成果] 事業化のための新技術分野の開拓には、検討要素として有用性、勝ち筋（特許性）及び事業性がある。どのような製品を作り（勝ち筋）、どのような市場で（有用性）、どれくらいをいくらで売るか（事業性）と言ってもよい。勝ち筋として新規性を付加することが研究組織としてやるべきことである。
+[Summary] In the development of new technology fields for commercialization, there are usefulness, winning points (patentability), and feasibility as consideration factors. It depends on what kind of product you make (winning points), in what market (usefulness), and how much you sell and at what price (business feasibility). Adding novelty as a winning point is what a research organization should do.
+[内容]
+・商品開発に関して研究組織でやるべきことは特許性に関わること。すなわち新規性と進歩性である。
+・勝ち筋について考えてみた。商品開発では “考える軸” と言われることもある。開発分野が定まっている場合、例えば“遊び”とか、観点を変えてみることがしばしばある。
+・どこで使うかとか、まさに使う側（お客様）の目線を想像することである。
+
+=2024.10.09 ＃０6=　#快適 #研究領域
+［確認事項］ 次回は10月30日（水）11:00-11:45とします。
+[成果] 事業創出のための研究には、分野を定めて市場性、将来性を評価していく必要がある。企画に基づく注力分野設定が不可欠である。当部署では漢方価値翻訳を基本方針の一つとして定めることから、次に導かれる注力分野を設定する必要がある。
+[Summary] In research for business creation, it is necessary to define the field and evaluate the marketability and future potential. Setting focus areas based on planning is essential. Since Kampo-Kachi-Hon’yaku is one of the basic policies in this department, it is necessary to set the next focus area.
+[内容]
+〇狙う市場と研究領域を設定する意義
+新事業創出では、まず事業性を考えた市場性評価予測を初めとしてアウトプットイメージを描き、その上で注力する領域を定め、そして研究テーマ設定することが必要である。事業性評価を何と捉えるかは別として、研究領域の設定は研究テーマの深耕に大きく影響を与える。
+検討を注力する分野、例えば ”インナー・ビューティー“ では、腸内細菌や代謝物から美容への応用を目論む。また別に、薬品の本社勉強会（ヘルスケア学術部）においては食養生を一つのサポート情報とし、広義の漢方医学の範疇として証診断（漢方処方のタイプ分け）の理解を進めていることは、「快適」 を考える上で漢方価値翻訳に他ならない。適切な研究領域の設定は、研究開発リテラシーを高め、組織文化の醸成にもつながるのではないか。
+〇東洋の伝統的思想から発想を得ること
+日本漢方は東洋思想の一つの発展形であることは言うまでもない。日本の風土・気候や日本人の体質にあわせて独自の発展を遂げ、17世紀頃、特に大きく発展して体系化され、わが国の伝統医学となった。明治の西洋文化導入の時期以降、日本文化の良さを逆に見出そうとする動きがあったとされる。日本哲学の黎明期の思想である。ここでは、表層的構造のみに目を向けるのではなく、東洋の基底構造、情動や内臓感覚に重点をおく。このような考え方は、ヘルスケア先端技術研究会で進めた情動評価にもつながるところがあり、その流れを汲むものである。快適の研究は人間研究といっても過言ではない。我々の研究の進め方も、表層に捉われず、何を意図し、何が大事かを認識し、何を達成するかという考えに主軸を通す必要がある。
+
+=2024.9.２4 ＃０5=　#快適 #新事業 #綜合化
+［確認事項］ 次回は10月９日（水）11:00-11:45とします。なお、今後も水曜11:00を基本とします。
+[成果] 研究開発発信の新規事業創出において、”綜合化”を一つのパワーとして成果をあげることを目論んでいる。ここでもテーマ設定が重要であることは云うまでもなく、そのためには、踏み込む領域の設定からアウトプットイメージをいち早く描くことが必要であろう。新事業創出のためのコンピタンス獲得のためには、R&D戦略推進チームやヘルスケア先端技術研究会の流れを足掛かりにし、何が不足していたのかを突き詰めることが考えられる。”綜合化”をパワーとするについて深く考える必要がある。
+[Summary] In the new business creation of R & D transmission, "synthesis" is one of the power, and it aims at achieving the result. It goes without saying that the theme setting is also important here, and for that purpose, it is necessary to draw the output image from the setting of the area to be covered. In order to acquire competencies for the creation of new businesses, it is conceivable to use the R&D Strategy Promotion Team and the Health Care Advanced Technology Study Group as a foothold to find out what was lacking in new business　creation. It is necessary to think deeply about "synthesis" a power to extract new business.
+[内容]
+１．はす向かいの関係利用
+綜合化の意味は、三事業の共通項としての「医食美」（=「快適」）を実現することにある。現在のWBRCでは兼任者はもとより専任者でさえ、各事業に強く紐づくことからは逃れ得ない。単純にバックグラウンドがそのようであるということに加え、テーマ設定がそのようになっているということであり、今後のテーマ設定がカギを握る。
+２．新事業創出と組織文化
+会社活動としてのこれまでのシナジーは芳しい成果に結びついていないというのが総括である。これは、新事業創出の困難さに加え、販売を考える上での流通等事業組織の問題に起因するものがあったのではないか。新事業を考えると、より個人に関わるテーマ設定から、そのサポート体制や流通にわたる幅広い取り組みが必要であり、新事業ともなれば想像以上に多くの要素を明確にする必要がある。
+新事業創出には、まず踏み込む領域を示し、ゴールイメージを描くことが王道である。研究段階において、研究企画に不十分さを感じさせないものはおそらく存在しない。WBRCでは研究開発発信の新規事業創出を目論む。その点で、各研究テーマではできるだけ早く、KRACIE Xの如く、アウトプットイメージを早い段階で描く必要がある。
+解決策の方策を出すのにしばしば利用するのは、コンサル等外部ブレインの導入である。ただ、R&D戦略事業推進チーム等研究開発型の新事業への取組みのこれまでの例では、いくら精密な計画を立てたところで現実はその先にあり、何か足りない状況が常であったことは否めない。これより考えられることは、不足する要素の主なものは、外部ではなく内部にあるということ。そして、その要素を探ることは、新組織が目指すべき組織文化の醸成にもつながると推測する。かつてヘルスケア先端技術研究会ではコンピタンス獲得の一環で、睡眠の解析を初めとして情動の見える化に取組んだ。そして、それは現在フロンティア研究部に引き継いでおり、この流れを足掛かりにした検討を進めることが考えられる。
+３．綜合化を活かす機会 
+アプトプットの市場性をまず検証し、事業化アイデアを現実化するのがKRACIE Xである。ただ技術的課題は、設計段階のみに起こるものではなく、各開発ステージにおいても生じることから、種々技術的対応が追い付かなくなるケースが多い。一方、技術的課題解決を事業創出の発想とする研究開発型では、応用分野を探しあぐねる懸念が大きい。この両者は、それぞれが独立した大きな（大きすぎる）課題であるため、実際、事業部では組織的な解決を図る。ここが綜合化（あるいは横断組織）のパワーを活かせる機会にほかならない。
+
+=2024.9.4 ＃０４=　#０１C #快適 
+［確認事項］ 
+〇次回は 『9/24(月) 11：00』 としますので、ご参加いただければありがたい。 
+〇「快適」についての第二回考察を進めますので、蘊蓄を傾けていただければうれしく思います。 
+[成果] 今回、些細なものであるが、本活動をきっかけとした個人レベルの事業部提案があり、綜合化に関わる一端をみた。「快適」 の第一回考察により、「対象」、「対応レベル」及び「個人の受けとり方」のそれぞれは大きく異なることから、事業展開を考える上では、注力するフィールドを決めることがまずは必要と考えられる。別に、「快適」を紐解く観点として、身体感覚だけでなく、心理面でのサポートを重要と捉え、両者に対して東洋医学をベースとする考えを生かすこともできると考えられる。今後に、事業領域イメージの具体化に向けての取組みを進める必要がある。
+［Summary］ This time, there was a proposal of the division at the individual level triggered by this activity, though it was a small one, and I saw a part related to the integration. According to the first consideration of "comfort," "target," "response level," and "individual perception" differ greatly. Therefore, when considering business development, it is necessary to decide the field to focus on. In addition, as a viewpoint of understanding "comfort," not only physical sensation but also psychological support are regarded as important, and the idea based on oriental medicine can be utilized for both. In the future, it is necessary to advance efforts to clarify the image of business domains.
+［内容］
+〇『01Conseptismo』（製品シリーズの名称提案） ［論点一覧#06］と『どんぐりむいちゃいました』（幼児向け４連甘栗）［論点一覧#07］ をKHC及びKFCにそれぞれ提案した。
+　⇒事業部のお眼鏡にかなえば良いが、その可能性は一般的に低い。
+・提案が単なる思いつきでそれ以上をやる気がなくても、いろいろ言うことに問題はない。
+・「どんぐり」の食経験を調べてみたら、面白いと思った。#07は先につながるかもしれない。
+〇”快適” の理解（１回目）
+・「痛みがなくなって、やりたいことができるようになった時」 に、“快適” をすごく感じた。
+・「生活での不満を解消すること」 ：不満にも色々あり、「痛み」、「不調」、「不快」 で必要な対応のレベルは異なり、さらに個人の感じ方でも異なる。
+・「不調」の中でも、身体的よりも心理的なもの（ストレス、不安）に注目したい。東洋医学との親和性が高い。
+・漢方研では、今はやっていないが、依存（addiction）の動物実験系があり、客観的なデータを得ることができる。細胞実験もでき、特に検体スクリーニングには大きく役立つ。
+・うつと相関するような ”感覚”的なもの。
+・「依存」：没頭している? ↔ 逃避している? ･･･これらからどんな事業展開がある? 注力するフィールドをまずは決めることが必要ではないか。
+〇本活動に関して
+・論点は基本的に全3回で完結したい。
+- １回目で論点とした経緯を説明し、思いつきを出す。２回目、３回目で内容を深め、納得解屁と結び付ける。
+- 延長及び以前の論点を改めてとりあげることは妨げない。
+・oViceでの定常活動は、現在、朝の挨拶、研究の輪及び本活動である。朝の挨拶のような気軽さで進めていきたい。
+・現状の当組織においては、テーマの在り方について話し合うことや考えることは意義深い。
+・他に自由に話せる場はないので、一つくらいこのような場があってもいいんじゃないの? そのためにはもっとラフに話せる雰囲気が必要だわ。oViceで繰り返されている朝の挨拶のような気軽な定常性がいい。
+・論点が広すぎると、焦点がどこにあるのかが分かりにくい場合がある。
+・本活動の必要性があるかどうかは、参加者をみればわかる。
+・業務時間を使う限り成果にはこだわりたい。議論の時間が限られているので、内容をできるだけ昇華させての議事録作成を考えているので、その内容確認及び修正に留意していただきたい。
+・議事録内容は日をさかのぼっての修正もするので、気になる点があれば随時指摘いただきたい。
+
+-2024.8.21 #03 -　　#01Cフォーマット #漢方価値翻訳 #新事業創出
+［確認事項］ 次回は 『9/4（水） 11：00～11：45』 とする。
+〇本活動メンバーの範囲として、ウェルビーイングRC主務の従業員（職制は除く）をカバーすべく、参加打診する。
+［成果］ 本活動は、本人の自由意思尊重とあらゆる強制力の排除により心理的安全性を確保することで、グーグル社級の創造性を生み出す試みである。「漢方」が当社特色であることは云うまでもなく、方針として掲げる今、それを理解し、より積極的に利用することが必要である。現研究テーマにおいて「漢方価値翻訳」が方法論として明解に適合するものは限られているものの、全テーマに反映の余地はあり、さらに理解を深め、種々その応用を図ることが必要である。また、"クラシエ新理論の構築” に反映させることも今後視野に入れる必要があろう。
+［summary］ This activity is an attempt to create Google-class creativity by ensuring psychological safety by respecting the free will of individuals and eliminating all forms of coercion. Needless to say, "Kampo" is one of the characteristics of our company, and now that it has been set up as a policy, we need to understand and use it. In the present research theme, 「Holistick approach for understanding "ways of life"」 clearly fits only a limited number of methodologies. Therefore, it is necessary to further deepen understanding and apply it in various ways. In addition, it is necessary to take into consideration the "construction of New Kracie Theory" in the future.
+［内容］ 
+〇本活動の説明
+・本活動は各自研究テーマ推進を主目的とするが、まずは新事業創出を目論む新組織の在り方を考えている。ポストKIXのようなものと言える。
+〇『漢方価値翻訳』 はどう英訳する？
+・前回英訳案 Holistick approach for understanding "ways of life"。（日本語説明：「人の営みの理解のための全体的なアプローチ」）
+・前回提出案には特に違和感はなく、ひとまずの本活動案（01C案）とする。
+・組織方針としてアイコンを掲げるのはよくあることであり、”漢方価値翻訳” についてもキャッチーな側面がある。
+・社内外を含め、外部説明において基礎研究を説明するための便利なキーワード（コミュニケーションツール）として捉えてもいい。
+・漢方価値翻訳から連想される ”多要件バランス” や "総合的判断" は、思考する上では当たり前のことなので、当社に特有の言葉を使っただけという理解が適切である。
+・漢方親しみのない方にとっては "想像を超える響き" となっており、その打開のために、薬品部門で実施の定期勉強会やweb資料を紹介することがせめて必要。
+〇新事業創出する部署とは何だ
+・カンパニーは現事業を大切に育てることをまず考えることが必要。一方、新事業創出となれば、既存を一新する 　"破壊的な試み" が必要となる。
+・研究開発が画期的であることはイメージできるが、現事業と異なる流通販売の利用は想像し難い。かと言って、既存事業の流通でやるなら、カンパニー研究所の役割と何ら変わるところがなく、新組織ができた意味はない。
+・かつてR&D戦略推進チームは、当社薬品流通をあきらめ、医療用健康食品の販売をもつ会社との提携を新規に進めたことがある。したがって、流通の開発は、新事業創出のための要件の一つとなるであろう。
+
+-2024.8.7（第二回）-　　#01Cフォーマット #漢方価値翻訳 #服薬補助剤
+［確認事項］　
+〇次回は 『8/21（水） 11：20～12：00』 です。
+〇漢方価値翻訳の理解を深める勉強会にご興味ある方はお知らせください。
+[成果] 今回参加者は二人であったが、論点が明確であったためか議論は滞りなく進んだ。二人では義務感から答えざるを得ない状況となることが議論を進ませるのかもしれない。少人数の効用であろうが、二人ではあまりにもですね。設定時に "三人寄れば文殊の知恵" を意識したことを考えるともう一人は欲しいところ。とりあえず、多人数よりはいいとしておきたい。
+事業部課題解決カテゴリから服薬補助剤の話題において、開発コンセプトがKPCの方針に合致していることに逆に驚き、これが綜合化成功の鍵の一つとなると予感した。以前のKPCでのお客様論考では、４分類（①ドクター、②患者、③薬局に来る人、④卸業者）の経験があり、この分類はマーケティングセグメントとして使えるのではないかと考えられた。
+漢方価値翻訳の理解に関して、言葉通りのトランスレーターから 「（価値の）伝達者としての役割を意識したもの」という補助的な考えが示された。01C案としては、「Holistick approach for understanding "ways of life"」（ 「人の営みの理解のための全体的なアプローチ」）。これによれば、当RCがキーワードとして用いる「快適」との親和性も感じられる。
+[Summary] There were two participants this time, but the discussion went smoothly, probably because the points were clear. It may be that the two of them have no choice but to answer out of a sense of duty, which makes the discussion progress. It may be the effect of a small number of people, but it's too much for two people. Considering the fact that they were aware of the concept of "Three heads are better than one" during the setting, I would like to have another player. For the time being, I ’ d say it's better than a lot of people.
+ I was surprised to find that the development concept matched KPC's policy from the division problem solving category to the topic of Medication-aids. I had a hunch that this would be one of the keys to successful integration. In a previous KPC customer discussion, we divided it into four categories (1 Doctor, 2 patient, 3 cuｓtomer of drugstore, 4 wholesaler).
+ With regard to the understanding of "Kampo Kachi Hon'yaku", the translator, who was just like the words, showed the auxiliary idea that "it is conscious of its role as a communicator (of values)". We set this as the 01C-proposal, 「Holistick approach for understanding "ways of life"」（ 「人の営みの理解のための全体的なアプローチ」）. According to this, the affinity with "KAITEKI" which is used as a keyword of this RC can be felt.
+［内容］ 
+〇本活動の内容及び設定
+・発想豊かで自由闊達な議論のために、「あらゆる強制力を排除」をコンセプトとして加えたい。 ⇒それなら、宿題はダメでしょう。⇒いえいえ、宿題は参加者人数制限策なのです。でも、効果が過大なので止めます。
+・ただ、以前の話題についてでも新たに気付いたことがあれば、付け加えるように心がけてください。成果を洗練するためです。
+〇専任と兼任との取り組み ･･･メンバーの意識の違いが議論のしにくさにつながることを懸念した。
+・その時の個人の状況に大きく影響されると思うが、最終的にはテーマそのものの魅力に左右されるのではないか。だから問題🍐。テーマ設定は想像以上に大事なんだ。
+〇開催時間：何としても業務時間中にやりたいので、昼前がいいんじゃないか。→１１：１０-12:00
+〇論点について
+・今のところ論点のカテゴリは業際（事業部関係以外）が多いため、2つくらいを設定し、ブレストのような感じで、その時間中で決着するようにしたい。⇒落としどころを見つけ出すのが大変そうだが、議事録で脚色するので（なにッ）、それを確認していただくことでいきましょう(^^;
+〇[KFC] 服薬補助剤に関して
+・「もっとクラシエ漢方が身近になるように」 を考えている ←これKPCが前から言ってるのと同じ文言ですよ。　
+・当たり前に、お客様のことを考えたらこうなりますよね。　そ、そうですね...
+・製薬のお客様には何種かあることに製品開発のヒントがあるんじゃないか。①ドクター、②患者、③薬局に来る人、④卸し。
+〇[KFC（他事業でもいい）] 「挨拶をしなくてもよい権利」の商品化提案
+・最近、ネットでバズった。それなら「こんにちは」とかをお菓子のネーミングにしてはどうか。：ホント思いつきですみません。
+・ユニークだが、商品開発にはストーリーがないとダメなんですよ。すんまそん。
+・自分とこの事業部を想定しなければ、ストーリーどころか何も考えまへんわ。でもね、このレベルだと、気楽に何でも言えちゃう。逆にここから、ストーリーを作り出すことってでけんか。⇒んん〰、むずかしかも。
+〇漢方価値翻訳の理解
+・伝達者としての役割。漢方のtranslator。 ･･･上記お客様４種で分ければ、実質的に有用な視点が出る可能性がある。
+・トータルバランス、全身的、相生-相剋を「全体的」 と表現し、文言としては 「人の営みの理解のための全体的なアプローチ」 でどうか。「快適」　についても、これにしっくりくるものの、発想の元とするためにはさらに意味を深める必要がある。
+・英語表現 「Holistick approach for understanding "ways of life"」 ･･･”キーワード設定 → 英語文 → 日本語文” によって、文言の意味を掘り下げた。
+・KPC提供の勉強会：①新入社員用研修、②事業部製造所用研修、④研究員用研修、④本社勉強会、⑤KPC一般向け漢方紹介［1］。④は精緻な資料を用いた丁寧な説明で、内容は病気症状から製品、生薬まで広くカバーする。学術専門家が部署内教育のために実施しているものを、横で聞く形になるので、参加の障壁は極めて低い。なお、研究員参加は４名程度。製品名と生薬名の漢字が読める程度の知識があれば、専門家の話しなので聴講は面白い。目的意識がないと仕事に役立つ可能性はおそらく低いが、定期勉強のペースメーカーとする程度で気楽に参加すればいいと思う。
+
+［参考文献］
+[1] Kampoful　life、「漢方の基礎知識」（https://www.kracie.co.jp/kampo/kampofullife/kampo）
+
+-２０２４．７．２４（第一回）-　　#01Cフォーマット
+[成果] 本活動は、ウェルビーイングRC の最重要業務であるところの新規事業創出に直接切り込む方策として、
+無から有を生むための一助になることを目論む。本活動により、いきいきと楽しく働くことにつながり、各研究テーマが洗練され、何より各人のプロフェッショナリズムが磨かれることが期待される。今回、本活動の進め方に関して
+議論し、各設定を整えた。今後、論点としての「ウェルビーイングとは」及び「雑談の効用」については、さらに継続的
+な検討を進めたい。
+ 本活動は、自分の認知を認知しようとするメタ認知に位置する[1]。この活動を通じて、語句の意味するところ
+（本質）を捉えようとする試みともいえる。この活動により、冷静に深いレベルでの思考ができるようになる。同時
+に、自分自身の強みや得意なことが認識でき、仕事でも活かせるようになる。自分に対して敏感になることが、最も大きな効用となるかもしれない。抽象度の高い思考ができるようになることも効用としてある。そして、そこから具
+体的なものに落とし込んでいけるかどうかが、“本当の成果” につながるかどうかの分かれ目である。
+
+［Summary］ The aim of this activity is to contribute to the creation of something from nothing as a measure to directly cut into the constructing of new businesses, which is the most important work of the Well-being RC. This activity is expected to lead to lively and enjoyable working, refine each research topic, and, above all, polish each individual's professionalism. This time, we discussed how to proceed this activity and prepared each setting of the activity. In the future, we would like to continue
+discussions on "What is well-being" and "The benefits of small talk" as further issues.
+ This activity is located in metacognition, which seeks to recognize one's own cognition[1]. Through this activity, it can be said that it is an attempt to capture the meaning(essence) of words and phrases. This activity helps you think calmly and at a deeper level. At the same time, you will be able to recognize your own strengths and what youare good at, and use them in your work. Being sensitive to yourself must be the biggestbenefit. It is also useful to be able to think at a high level of abstraction. And whether it can be reduced to something concrete from there is the difference whether it will lead
+to "real results" or not.
+
+［確認事項］　次回は8 月７日（水） 16：40-17：40
+［内容］ 〇本活動 “01 コンセプティズモ” がめざすもの
+本活動は、無から有を生み出すことに役立つ活動して設定した。０から１を生み出すことこそが重要、あるいは難しいとしばしば聞かれる。当人たちにとっては ”1” なんておこがましいし、何かを作り出りだせる確証も自信もない。そこでちょっと弱気に、そして控えめに “0.01”の小数点以下の “01” を会の名称としたわけである。奥ゆかしさは文化的な美徳の一つと理解されればありがたい。また、1%（=0.01）といえば、そう、エジソン曰く、ひらめきの配分。隔週を予定している本活動時間に偶然のごとく一致することが、計算済みであったことは誰も知らない。
+”Conceptismo” は概念主義と訳され、スペイン文学のバロック時代（16 世紀末から17 世紀初頭）に登場した
+文学運動である。華麗な語彙、複雑な文章構造を特徴とし、簡潔で明解な表現により、偽善と虚栄などを排除し、問題の本質を浮き彫りにする運動とされる。本活動が、より直接的に明解に、本質を明らかにすることで新しい発想
+へとつなげる場となるよう願いを込めて本活動の名称とした。
+〇C01 活動の設定を確認
+本会は、新規事業創出のために考えるすべを作り出すことを目的として設定した。事業所横断的であり、実施は業務時間であることから、その参加は本人の自由意思による。すなわち、個々人の活動としての位置づけである。また、その設定は 「雑談」 に類似し、議論内容は私的会話の位置づけとする。その他、ファシリテータを置くこと、論点を明確にすること及び報告書を念頭においての議事録作成を特徴とする。
+〇ハートの使い方
+最近ではWeb チャット等でのラフな会話が、仕事中に頻繁にみられるようになり、その有効性も認められている。文章中にハート（絵文字）を使う人がしばしばおり、それが一部の人にとっては感情を揺さぶられるものになるらし
+い。組織内の仕事の進め方については関係者のコンセンサスを得ることが何より要視される。それゆえ、ロジックで物事を動かすべきとされる。ただ、人間はロジックのみでは動かず、感情が先行するのは事実であり、ハートは感情に訴える側面が少なくない。それゆえ、業務文章での有効な使い途は一考に値する。他方、使い過ぎには注意が必要であろう。
+〇優先順位のこと
+創造という作業には時間及び発想のきっかけが必要であることは周知であることから、意識的に心の余裕を確保する必要がある。一方、忙しいとか時間がないとかは職場でよく聞かれることから考えると、創造が生まれにくい場であることは容易に想像できる。本当に時間がないかどうかはこの場では触れないが、この心の余裕を“暇”と表現する人が一定数いる。この 「暇な人」 の状況を解析すると、仕事量そのものが少ないわけではなく、仕事優先順位の決め方に対する自由度が高いのである。逆に、「忙しい人」 は優先順位の決め方の自由度が小さいと考えることができ、たいていの職位上位者が相当する。「暇な人」 をいかに作るかが、組織的に創造を生み出すための一つの方法論となると予感した。
+〇英語バージョン作成の効用
+漢方研ではかつて月報表紙の英語バージョンを作っていたことがある。技術的にはweb 翻訳システムがあるので、その負担はさほど大きくはなく、実際、作業としては一部の不適切に訳された語句を直すのみである。注目すべきは、この不適切な箇所であり、大抵の場合、元の日本語のまずさに起因することがほとんどである。強調すべきこは、ネイティブは安易な語句の使い方をしてしまうことが常であることに気づくべきということ。それを気づかせるための一つの方法として英訳は有効に機能する。それに、ちょっとカッチョいいし。
+〇ウェルビーイングとは次の次のこと
+ウェルビーイングの一つの解説に、ポストSDGs というのがある[2]。すなわち、地球上の食糧問題や環境問題が解決され、問題がなくなったあとになされるべきもの、あるいは目指すべきことと理解する。ただ、直近の問題（SDGs）が達成されていないにも関わらず、その次を考えようというのはナンセンスと言えなくもない。
+当部所はそのウェルビーイングを冠する。加えて、業務分掌の一番は新事業創出である。名称にふさわしいものとなるためには何をすべきなのであろう。まずもっての活動は、そのアプローチのための方法論を考えることではなかろうか。
+［参考］
+[1] メタ認知とは？その能力が高い人の特徴や鍛え方をわかりやすく解説！
+[2] ポストSDGs と言われる Well-being とは何か？
+以上
